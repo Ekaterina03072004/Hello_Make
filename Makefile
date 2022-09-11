@@ -1,4 +1,4 @@
-Hello_Make : Makefile
-	ls 
-
+Hello_Make :  #Makefile
+ ls
+ 
 	
