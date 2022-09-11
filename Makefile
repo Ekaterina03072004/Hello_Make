@@ -1,4 +1,6 @@
-Hello_Make :  #Makefile
- ls
- 
+Hello_Make : Makefile
+	@echo "Hello_Make"
+
+	
+
 	
