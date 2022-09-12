@@ -1,4 +1,4 @@
-Hello_Make : Makefile
+Hello_Make :
 	@echo "Hello_Make"
 
 	
